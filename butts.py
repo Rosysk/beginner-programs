@@ -1,7 +1,7 @@
 spaces = ' ' * 25
 print('%s 1278 dolphin drive' %spaces)
 print('%s Twintklestar cloud' %spaces)
-print('%s jumper USA' %spaces)
+print('%s Jumper USA' %spaces)
 print
 print
 print('Dear dolphin')
